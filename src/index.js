@@ -13,7 +13,7 @@ app.use(multer().any())
 // ==+==+==+==+==+==+==+==+==+==[Connect DataBase]==+==+==+==+==+==+==+==+==+==
 mongoose
   .connect(
-    "mongodb+srv://Seema:C5PtEdt23kmtx9ov@cluster0.gjunl.mongodb.net/group65database?retryWrites=true&w=majority",
+    "mongodb+srv://shardulschatufale:shardul1234@cluster0.w686kdy.mongodb.net/TestDatabase?retryWrites=true",
     {
       useNewUrlParser: true,
     }
